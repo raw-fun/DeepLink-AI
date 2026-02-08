@@ -1,0 +1,5 @@
+{
+  "name": "Copy of DeepLink AI Explorer",
+  "description": "An AI-powered web crawler simulation and analysis tool that visualizes website structures, detects dead links, and provides deep insights using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
